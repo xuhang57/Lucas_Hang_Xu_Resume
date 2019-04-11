@@ -6,6 +6,8 @@
 * Python Developer Intern at Ricequant Inc. (May 2018 - Aug. 2018)
 * Software Engineer at Mass Open Cloud (Oct. 2016 - Apr. 2018)
 * Student Intern at Mass Open Cloud (May 2015 - Sept 2016)
+* Student Office Assistant at BU Hariri Institution ()
+* Student Mailroom Assistant at BU Housing (Feb 2013 - Jan 2016)
 
 ## Education
 
@@ -15,20 +17,20 @@
 
 ## Open Source Projects
 
-* Horizon
+* [Horizon]()
   * [Merged Gerrit Review 1](https://review.openstack.org/#/c/449317/)
   * [Merged Gerrit Review 2](https://review.openstack.org/#/c/401361/)
   * [Merged Gerrit Review 3](https://review.openstack.org/#/c/190253/)
   * [Merged Gerrit Review 4](https://review.openstack.org/#/c/438074/)
   * [Merged Gerrit Review 5](https://review.openstack.org/#/c/438038/)
-* HIL
-* Clank
+* [HIL]()
+* [Clank]()
 * Atmosphere
 * Troposphere
 * Giji-frontend
 * Giji-backend
 
-### Personal
+### Personal Projects
 
 * Learn-C
 * Learn-Rust
@@ -67,7 +69,9 @@
 * Apache2/Nginx
 * MangoDB/MySql/SqlLite
 
-### Other Presences Online
+## Other Presences Online
 
 * [LinkedIn]()
 * [StackOverflow]()
+
+## Volunteer
