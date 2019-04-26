@@ -2,18 +2,19 @@
 
 ## Experience
 
-* Software Engineer Intern at [RedHat Inc.]() (May 2019 - Aug. 2019)
-* Python Developer Intern at [Ricequant Inc.]() (May 2018 - Aug. 2018)
-* Software Engineer at [Mass Open Cloud]() (Oct. 2016 - Apr. 2018)
-* Student Intern at [Mass Open Cloud]() (May 2015 - Sept 2016)
-* Student Office Assistant at [BU Hariri Institution]() ()
-* Student Mail-room Assistant at [BU Housing]() (Feb 2013 - Jan 2016)
+* Software Engineer Intern at [RedHat Inc.](https://www.redhat.com/en) (May 2019 - Aug. 2019)
+* Python Developer Intern at [Ricequant Inc.](https://www.ricequant.com/) (May 2018 - Aug. 2018)
+* Software Engineer at [Mass Open Cloud](https://massopen.cloud/) (Oct. 2016 - Apr. 2018)
+* Student Intern at [Mass Open Cloud](https://massopen.cloud/) (May 2015 - Sept 2016)
+* Student Coach at [BU Storytelling Workshops](https://combeyond.bu.edu/workshop/data-narrative/) (Jan. 2016)
+* Student Office Assistant at [BU Hariri Institution](https://www.bu.edu/hic/) (Mar. 2014 - May 2015)
+* Student Mail-room Assistant at [BU Housing](https://www.bu.edu/housing/) (Feb 2013 - Jan 2016)
 
 ## Education
 
-* Master of Science (M.S.) in [Computer Science specialization in Cyber-security]() at [Boston University]() (Sept. 2018 - Jan. 2020)
-* Bachelor of Arts (B.A.) in Computer Science at [Boston University]() (Sept. 2012 - May 2016)
-* Bachelor of Arts (B.A.) in Statistics at [Boston University]() Sept. (Sept. 2012 - May 2016)
+* Master of Science (M.S.) in [Computer Science specialization in Cyber-security](https://www.bu.edu/cs/masters/program/cyber-security/) at [Boston University](https://www.bu.edu/) (Sept. 2018 - Jan. 2020)
+* Bachelor of Arts (B.A.) in Computer Science at [Boston University](https://www.bu.edu/) (Sept. 2012 - May 2016)
+* Bachelor of Arts (B.A.) in Statistics at [Boston University](https://www.bu.edu/) Sept. (Sept. 2012 - May 2016)
 
 ## Open Source Projects
 
@@ -27,20 +28,22 @@
 * [Clank](https://github.com/cyverse/clank)
 * [Atmosphere](https://github.com/cyverse/atmosphere)
 * [Troposphere](https://github.com/cyverse/troposphere)
-* [Giji-frontend]()
-* [Giji-backend]()
+* [GIJI-frontend](https://github.com/CCI-MOC/giji-frontend)
+* [GIJI-backend](https://github.com/CCI-MOC/giji-backend)
 
 ### Personal Projects
 
-* [Learn-C]()
-* [Learn-Rust]()
-* [Learn-GO]()
-* [Learn-Java]()
-* [Learn-Algorithm]()
+* [Learn-C](https://github.com/xuhang57/Learn-C)
+* [Learn-Java](https://github.com/xuhang57/Learn-JAVA)
+* [Learn-Rust](https://github.com/xuhang57/Learn-RUST)
+* [Learn-GO](https://github.com/xuhang57/Learn-GO)
+* [Learn-Algorithm](https://github.com/xuhang57/Learn-Algorithms)
 
 ## Course Projects
 
 * White-box Fuzzer (Java)
+  * A fuzzer of Java programs fed with a single-file Java source code file representing a program that produces an output based on one command-line ASCII argument
+  * Implemented through using Java 8 Stream and Reflection
 * MemOS (ASM, C)
   * A minimal OS that displays physical memory available in the machine along with the memory range when boot through probing the system BIOS.
     * Part I: write our own boot-loader and stay in the real mode
@@ -65,11 +68,12 @@
 
 ### Platforms/Softwares
 
-* Github/Bitbucket (git)
+* Github/Bitbucket with git
 * JIRA/Crucible
-* AWS EC2
+* AWS EC2/Azure
 * Apache2/Nginx
 * MangoDB/MySql/SqlLite
+* Redis/RabbitMQ
 
 ## Other Presences Online
 
