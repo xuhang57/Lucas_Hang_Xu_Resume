@@ -78,19 +78,11 @@
 
 ### Graduate
 
-#### Fall 2018
-
 * Advanced Algorithm (CS 530), Introduction to Grad Database (CS 660), Cryptography I (CS 538)
-
-#### Spring 2019
-
 * Advanced Data Structures and Algorithms (EC504), Introduction to Operating System (CS 552), Applied Cryptography (CS 568)
-
-#### Fall 2019
-
 * Java Object-Oriented Design (CS 591), Cybersecurity (EC 521)
 
-### Undergraduate (Partial shown)
+### Undergraduate (Partially shown)
 
 #### Computer Science
 
