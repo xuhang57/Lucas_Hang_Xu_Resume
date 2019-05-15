@@ -124,6 +124,6 @@
 
 ## Volunteer
 
-* Transfix
+* [Transifex](https://www.transifex.com/)
 * [BU Joining Hands](https://www.bu.edu/csc/category/joining-hands/)
 * [BU After Schools](https://www.bu.edu/csc/community-service-center-programs/afterschool/)
