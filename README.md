@@ -4,7 +4,7 @@
 
 * **Software Engineer Intern at [RedHat Inc.](https://www.redhat.com/en) (May 2019 - Aug. 2019)**
   * To be added.
-* Python Developer Intern at [Ricequant Inc.](https://www.ricequant.com/) (May 2018 - Aug. 2018)
+* **Python Developer Intern at [Ricequant Inc.](https://www.ricequant.com/) (May 2018 - Aug. 2018)**
   * Migrated data between MySQL and MongoDB servers and transformed financial raw data into different formats such as bcolz, hdf5.
   * Designed 6 new API services of RQData, a python library provides financial data and tick prices from Chinese stock markets with a team of 5 backend engineers.
   * Configured Jenkins for automating routine development tasks such as scraping data from the Shanghai Stock Exchange website.
@@ -23,7 +23,7 @@
   * Designed numerous REST-ful API functions to HIL, a low-level tool for reserving physical machines and connecting these machines via isolated networks.
   * Developed [MOC WordPress CMS website](https://massopen.cloud/)
   * **Utilized**: WordPress, Python, OpenStack, Linux (Ubuntu and CentOS).
-* **Student Coach at [BU Storytelling Workshops](https://combeyond.bu.edu/workshop/data-narrative/) (Jan. 2016)**
+* **Student Coach at [BU Storytelling Workshops](https://combeyond.bu.edu/workshop/data-narrative/) (Jan. 2016 - Jan. 2016)**
   * Assisted approximately 30 workshop attendees with technical issues and assisted in their work with R. Excel. SQL, and a variety of web-based data storytelling tools such as [Tableau](https://www.tableau.com/).
 * **Student Office Assistant at [BU Hariri Institution](https://www.bu.edu/hic/) (Mar. 2014 - May 2015)**
   * Maintained [Hariri Institute CMS website](https://www.bu.edu/hic/)
@@ -37,7 +37,7 @@
 
 * Master of Science (M.S.) in [Computer Science specialization in Cybersecurity](https://www.bu.edu/cs/masters/program/cyber-security/) at [Boston University](https://www.bu.edu/) (Sept. 2018 - Jan. 2020)
 * Bachelor of Arts (B.A.) in Computer Science at [Boston University](https://www.bu.edu/) (Sept. 2012 - May 2016)
-* Bachelor of Arts (B.A.) in Statistics at [Boston University](https://www.bu.edu/) Sept. (Sept. 2012 - May 2016)
+* Bachelor of Arts (B.A.) in Statistics at [Boston University](https://www.bu.edu/) (Sept. 2012 - May 2016)
 
 ## Open Source Projects
 
