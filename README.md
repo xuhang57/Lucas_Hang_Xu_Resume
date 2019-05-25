@@ -17,7 +17,7 @@
   * Demonstrated on HPC service on underutilized OpenStack cloud resources at [OpenStack Summit Nov. 2017 (Sydney)](https://www.openstack.org/summit/sydney-2017/summit-schedule/events/19990/htc-service-on-underutilized-openstack-cloud-resources).
   * Cooperated in a team of 6 developers using agile principles to ensure road-map goals are met.
   * Operated sprint planning, scheduling of releases and long-term road-map planning.
-  * **Leveraged Knowledge** in Full Stack Web development, Git, JavaScript libraries and frameworks, Python and debugged using Chrome Developer Tools and PDB.
+  * **Leveraged Knowledge** in Full Stack Web development, Agile, Git, JavaScript libraries and frameworks such as BackboneJS and ReactJS, Python and debugged using Chrome Developer Tools and [python debugger](https://docs.python.org/3/library/pdb.html).
 * **Student Intern at [Mass Open Cloud](https://massopen.cloud/) (May 2015 - Sept 2016)**
   * Deployed and connected Atmosphere, an open source project integrates AWS and OpenStack into one interface, with [MOC RedHat OpenStack cloud](https://kaizen.massopen.cloud/).
   * Designed numerous REST-ful API functions to HIL, a low-level tool for reserving physical machines and connecting these machines via isolated networks.
