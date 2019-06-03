@@ -4,8 +4,13 @@
 
 ## Experience
 
+### Most Recent
+
 * **Software Engineer Intern at [RedHat Inc.](https://www.redhat.com/en) (May 2019 - Aug. 2019)**
   * To be added.
+
+### Past
+
 * **Python Developer Intern at [Ricequant Inc.](https://www.ricequant.com/) (May 2018 - Aug. 2018)**
   * Migrated data between MySQL and MongoDB servers and transformed financial raw data into different formats such as bcolz, hdf5.
   * Designed 6 new API services of RQData, a python library provides financial data and tick prices from Chinese stock markets with a team of 5 backend engineers.
@@ -43,12 +48,15 @@
 
 ## Open Source Projects
 
-* [Horizon](https://docs.openstack.org/horizon/latest/)
-  * [Merged Gerrit Review 1](https://review.openstack.org/#/c/449317/)
-  * [Merged Gerrit Review 2](https://review.openstack.org/#/c/401361/)
-  * [Merged Gerrit Review 3](https://review.openstack.org/#/c/190253/)
-  * [Merged Gerrit Review 4](https://review.openstack.org/#/c/438074/)
-  * [Merged Gerrit Review 5](https://review.openstack.org/#/c/438038/)
+* [OpenStack](https://www.openstack.org/)
+    * [Merged Gerrit Review 1](https://review.openstack.org/#/c/449317/)
+    * [Merged Gerrit Review 2](https://review.openstack.org/#/c/401361/)
+    * [Merged Gerrit Review 3](https://review.openstack.org/#/c/190253/)
+    * [Merged Gerrit Review 4](https://review.openstack.org/#/c/438074/)
+    * [Merged Gerrit Review 5](https://review.openstack.org/#/c/438038/)
+    * [Merged Gerrit Review 6](https://review.opendev.org/#/c/662330/)
+    * [Merged Gerrit Review 7](https://review.opendev.org/#/c/401361/)
+    * [Merged Gerrit Review 8](https://review.opendev.org/#/c/492286/)
 * [HIL](https://github.com/CCI-MOC/hil)
 * [Clank](https://github.com/cyverse/clank)
 * [Atmosphere](https://github.com/cyverse/atmosphere)
