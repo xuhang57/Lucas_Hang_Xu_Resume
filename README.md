@@ -49,14 +49,18 @@
 ## Open Source Projects
 
 * [OpenStack](https://www.openstack.org/)
-    * [Merged Gerrit Review 1](https://review.openstack.org/#/c/449317/)
-    * [Merged Gerrit Review 2](https://review.openstack.org/#/c/401361/)
-    * [Merged Gerrit Review 3](https://review.openstack.org/#/c/190253/)
-    * [Merged Gerrit Review 4](https://review.openstack.org/#/c/438074/)
-    * [Merged Gerrit Review 5](https://review.openstack.org/#/c/438038/)
-    * [Merged Gerrit Review 6](https://review.opendev.org/#/c/662330/)
-    * [Merged Gerrit Review 7](https://review.opendev.org/#/c/401361/)
-    * [Merged Gerrit Review 8](https://review.opendev.org/#/c/492286/)
+  * [Merged Gerrit Review 1](https://review.openstack.org/#/c/449317/)
+  * [Merged Gerrit Review 2](https://review.openstack.org/#/c/401361/)
+  * [Merged Gerrit Review 3](https://review.openstack.org/#/c/190253/)
+  * [Merged Gerrit Review 4](https://review.openstack.org/#/c/438074/)
+  * [Merged Gerrit Review 5](https://review.openstack.org/#/c/438038/)
+  * [Merged Gerrit Review 6](https://review.opendev.org/#/c/662330/)
+  * [Merged Gerrit Review 7](https://review.opendev.org/#/c/401361/)
+  * [Merged Gerrit Review 8](https://review.opendev.org/#/c/492286/)
+  * rally-openstack
+    * [Add Octavia Authenticate](https://review.opendev.org/#/c/666909/)
+    * [Add listener_id to pool_create](https://review.opendev.org/#/c/668010/)
+    * [Octavia Load Balancing CI](https://review.opendev.org/#/c/665179/)
 * [HIL](https://github.com/CCI-MOC/hil)
 * [Clank](https://github.com/cyverse/clank)
 * [Atmosphere](https://github.com/cyverse/atmosphere)
@@ -66,11 +70,13 @@
 
 ### Personal Open Source Projects
 
+* [NBA-Python](to-be-added)
 * [Learn-C](https://github.com/xuhang57/Learn-C)
 * [Learn-Java](https://github.com/xuhang57/Learn-JAVA)
 * [Learn-Rust](https://github.com/xuhang57/Learn-RUST)
 * [Learn-GO](https://github.com/xuhang57/Learn-GO)
 * [Learn-Algorithm](https://github.com/xuhang57/Learn-Algorithms)
+* [Learn-Network](https://github.com/xuhang57/Learn-Network)
 
 ## Course Projects
 
