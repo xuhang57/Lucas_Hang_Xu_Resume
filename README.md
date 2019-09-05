@@ -6,8 +6,16 @@
 
 ### Most Recent
 
-* **Software Engineer Intern at [RedHat Inc.](https://www.redhat.com/en) (May 2019 - Aug. 2019)**
+* **Software Engineer Fall Intern at [RedHat Inc.](https://www.redhat.com/en) (Sept. 2019 - Dec. 2019)**
+  * Details comming soon!
+
+* **Software Engineer Summer Intern at [RedHat Inc.](https://www.redhat.com/en) (May 2019 - Aug. 2019)**
   * Created and Implemented OpenStack Performance Testing for Octavia (Load Balancing, HAProxy) and Nova (Compute).
+  * Automated Octavia data plane performance tests using Apache web-server, ApacheBench and Ansible.
+  * Automated Nova live migration with busy workloads performance testing using Sysbench, MariaDB, Nova API, and Ansible.
+  * Designed and co-authored Python APIs and CI for OpenStack Rally-openstack project. (6 patches merged).
+  * Delivered a lightening talk about performance testing to approx. 50 summer interns and managers.
+  * Leveraged Knowledge in Python, Git, Linux Kernel, Ansible, OpenStack, Sysbench, MariaDB, Apache, ApacheBench.
 
 ### Past
 
