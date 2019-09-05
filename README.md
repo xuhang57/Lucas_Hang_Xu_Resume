@@ -7,7 +7,7 @@
 ### Most Recent
 
 * **Software Engineer Intern at [RedHat Inc.](https://www.redhat.com/en) (May 2019 - Aug. 2019)**
-  * To be added.
+  * Created and Implemented OpenStack Performance Testing for Octavia (Load Balancing, HAProxy) and Nova (Compute).
 
 ### Past
 
