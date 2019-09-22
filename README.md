@@ -8,6 +8,11 @@
 
 * **Software Engineer Fall Intern at [RedHat Inc.](https://www.redhat.com/en) (Sept. 2019 - Dec. 2019)**
   * Details comming soon!
+  * OpenShift/OpenStack
+* **Grader for Network Security (CS558) (Sept. 2019 - Dec. 2019)**
+  * Details comming soon!
+  
+### Past
 
 * **Software Engineer Summer Intern at [RedHat Inc.](https://www.redhat.com/en) (May 2019 - Aug. 2019)**
   * Created and Implemented OpenStack Performance Testing for Octavia (Load Balancing, HAProxy) and Nova (Compute).
@@ -15,10 +20,7 @@
   * Automated Nova live migration with busy workloads performance testing using Sysbench, MariaDB, Nova API, and Ansible.
   * Designed and co-authored Python APIs and CI for OpenStack Rally-openstack project. (6 patches merged).
   * Delivered a lightening talk about performance testing to approx. 50 summer interns and managers.
-  * Leveraged Knowledge in Python, Git, Linux Kernel, Ansible, OpenStack, Sysbench, MariaDB, Apache, ApacheBench.
-
-### Past
-
+  * **Leveraged Knowledge** in Python, Git, Linux Kernel, Ansible, OpenStack, Sysbench, MariaDB, Apache, ApacheBench.
 * **Python Developer Intern at [Ricequant Inc.](https://www.ricequant.com/) (May 2018 - Aug. 2018)**
   * Migrated data between MySQL and MongoDB servers and transformed financial raw data into different formats such as bcolz, hdf5.
   * Designed 6 new API services of RQData, a python library provides financial data and tick prices from Chinese stock markets with a team of 5 backend engineers.
@@ -130,7 +132,7 @@
 ### Programming Languages
 
 * **Python** (Daily Basis)
-* **Java** (Several Projects, Use regularly)
+* **Java** (Daily Basis)
 * **C** (Familiar)
 * **JavaScript** (Familiar)
 * **HTML/CSS** (Very Familiar)
@@ -141,7 +143,7 @@
 
 * Github/Bitbucket
 * JIRA/Crucible
-* AWS EC2/Azure/OpenStack
+* AWS EC2/OpenStack
 * Apache2/Nginx
 * MangoDB/MySql/SqlLite
 * Redis/RabbitMQ
