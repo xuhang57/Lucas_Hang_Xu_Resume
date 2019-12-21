@@ -6,14 +6,15 @@
 
 ### Most Recent
 
-* **Software Engineer Fall Intern at [RedHat Inc.](https://www.redhat.com/en) (Sept. 2019 - Dec. 2019)**
-  * Details comming soon!
-  * OpenShift/OpenStack
-* **Grader for Network Security (CS558) (Sept. 2019 - Dec. 2019)**
-  * Details comming soon!
+* Incoming Production Engineer at Facebook starting March 2020
   
 ### Past
 
+* **Software Engineer Fall Intern at [RedHat Inc.](https://www.redhat.com/en) (Sept. 2019 - Dec. 2019)**
+  * Porting existing metrics and monitoring Time-Series database to Prometheus from Graphite.
+  * Automated Grafana dashboards and panels with Prometheus and Collectd using Ansible
+* **Grader for Network Security (CS558) (Sept. 2019 - Dec. 2019)**
+  * Grading Assignments, Labs and Posters in a team of four including two Teaching Assistants in Fall 2019.
 * **Software Engineer Summer Intern at [RedHat Inc.](https://www.redhat.com/en) (May 2019 - Aug. 2019)**
   * Created and Implemented OpenStack Performance Testing for Octavia (Load Balancing, HAProxy) and Nova (Compute).
   * Automated Octavia data plane performance tests using Apache web-server, ApacheBench and Ansible.
