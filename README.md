@@ -59,7 +59,7 @@
 
 ## Open Source Projects
 
-* [OpenStack](https://www.openstack.org/)
+* [OpenStack](https://www.openstack.org/)(Not a full list)
   * [Merged Gerrit Review 1](https://review.openstack.org/#/c/449317/)
   * [Merged Gerrit Review 2](https://review.openstack.org/#/c/401361/)
   * [Merged Gerrit Review 3](https://review.openstack.org/#/c/190253/)
