@@ -6,11 +6,12 @@
 
 ### Most Recent
 
-* Incoming Production Engineer at Facebook starting March 2020
+* **Production Engineer** at [Facebook, Inc](https://www.facebook.com/) (Mar. 2020 - Present)
+  * TBD
   
 ### Past
 
-* **Software Engineer Fall Intern at [RedHat Inc.](https://www.redhat.com/en) (Sept. 2019 - Dec. 2019)**
+* **Software Engineer Fall Intern at [RedHat, Inc.](https://www.redhat.com/en) (Sept. 2019 - Dec. 2019)**
   * Porting existing metrics and monitoring Time-Series database to Prometheus from Graphite.
   * Automated Grafana dashboards and panels with Prometheus and Collectd using Ansible
 * **Grader for Network Security (CS558) (Sept. 2019 - Dec. 2019)**
