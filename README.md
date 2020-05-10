@@ -80,16 +80,6 @@
 * [GIJI-frontend](https://github.com/CCI-MOC/giji-frontend)
 * [GIJI-backend](https://github.com/CCI-MOC/giji-backend)
 
-### Personal Open Source Projects
-
-* [NBA-Python](to-be-added)
-* [Learn-C](https://github.com/xuhang57/Learn-C)
-* [Learn-Java](https://github.com/xuhang57/Learn-JAVA)
-* [Learn-Rust](https://github.com/xuhang57/Learn-RUST)
-* [Learn-GO](https://github.com/xuhang57/Learn-GO)
-* [Learn-Algorithm](https://github.com/xuhang57/Learn-Algorithms)
-* [Learn-Network](https://github.com/xuhang57/Learn-Network)
-
 ## Course Projects
 
 * **Applied Cryptography Labs (Python)**
