@@ -124,12 +124,9 @@
 ### Programming Languages
 
 * **Python** (Daily Basis)
-* **Java** (Daily Basis)
-* **C** (Familiar)
-* **JavaScript** (Familiar)
-* **HTML/CSS** (Very Familiar)
-* **BASH** (Familiar)
-* **SQL** (Familiar)
+* **Rust** (Daily Basis)
+* **C++, C, Linux**
+* Java, Golang, Javascript, HTML/CSS, Bash, SQL (Familiar)
 
 ### Platforms/Softwares
 
